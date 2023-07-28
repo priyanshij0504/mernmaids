@@ -12,12 +12,11 @@ import Cart from './cart';
 function App() {
   return (
     <main>
-      {/* <Navbar /> */}
       <Router>
         <div>
         <Navbar />
         <div>
-        <Routes>
+        <Routes> 
           <Route exact path="/" Component={Home} />
           <Route path='/Cart' Component={Cart} />
         </Routes>
