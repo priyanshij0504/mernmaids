@@ -79,5 +79,13 @@ const menu = [
         img:
           'https://i1.wp.com/vegecravings.com/wp-content/uploads/2016/12/bread-pakora-recipe-step-by-step-instructions.jpg?fit=2409%2C1798&quality=30&strip=all&ssl=1',
       },
+      {
+        id: 11,
+        title: 'potato chips',
+        category: 'Snacks',
+        price: 20,
+        img:
+          'https://images.pexels.com/photos/568805/pexels-photo-568805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
   ]
   export default menu
