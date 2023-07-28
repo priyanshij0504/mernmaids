@@ -103,6 +103,25 @@ const menu = [
         img:
 'https://tse4.mm.bing.net/th?id=OIP.HU1WHb8yjIgzN6X3iVRYRgHaFl&pid=Api&P=0&h=180'
       },
+      {
+        id: 14,
+        title: 'Pakora',
+        category: 'Snacks',
+        price:25,
+        img:
+        'https://media.istockphoto.com/id/1227009834/photo/onion-pakora-or-pakoda.jpg?s=1024x1024&w=is&k=20&c=NPLmbosYwqDMN8yTV18CHkjZyaeAGI7fT6R4vAmiF7o='
+      },
+      {
+        id:15,
+        title:'Sandwitch',
+        category:'Snacks',
+        price:15,
+        img:
+        'https://images.pexels.com/photos/14410236/pexels-photo-14410236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+      }
+
+  
+
 
 
   ]
