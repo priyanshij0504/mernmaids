@@ -10,7 +10,7 @@ const Menu = ({ items }) => {
             <img src={img} alt={title} className="photo" />
             <div className="item-info">
               <header>
-                <h4>{title}</h4>
+                <h4>{title}</h4><br />
                 <h4 className="price">Rs{price}</h4>
               </header>
             </div>
