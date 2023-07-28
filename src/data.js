@@ -95,6 +95,14 @@ const menu = [
         img:
           'https://images.pexels.com/photos/3491211/pexels-photo-3491211.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
+      {
+        id: 13,
+        title: 'Burger',
+        category: 'Snacks',
+        price: 30,
+        img:
+'https://tse4.mm.bing.net/th?id=OIP.HU1WHb8yjIgzN6X3iVRYRgHaFl&pid=Api&P=0&h=180'
+      },
 
 
   ]
