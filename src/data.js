@@ -87,5 +87,15 @@ const menu = [
         img:
           'https://images.pexels.com/photos/568805/pexels-photo-568805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
+      {
+        id: 12,
+        title: 'Coffee',
+        category: 'Drinks',
+        price: 12,
+        img:
+          'https://images.pexels.com/photos/3491211/pexels-photo-3491211.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      },
+
+
   ]
   export default menu
