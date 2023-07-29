@@ -113,11 +113,19 @@ const menu = [
       },
       {
         id:15,
-        title:'Sandwitch',
+        title:'Sandwich',
         category:'Snacks',
         price:15,
         img:
         'https://images.pexels.com/photos/14410236/pexels-photo-14410236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+      },
+      {
+        id:16,
+        title:'Spring Rolls',
+        category:'Snacks',
+        price:12,
+        img:
+        'https://images.pexels.com/photos/15801057/pexels-photo-15801057/free-photo-of-spring-rolls-with-sauces-on-plate-on-table.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
       }
 
   
